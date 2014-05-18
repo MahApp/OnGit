@@ -10,7 +10,7 @@ public class LarsClass {
 		String testing = "But this is crap";
 		int i4 = 26; //new branch
 		int i5 = 27;
-		int i6 = 27; //new branch
+		int i6 = 27;
 	}
 
 }
