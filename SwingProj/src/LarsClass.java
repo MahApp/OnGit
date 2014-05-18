@@ -5,6 +5,7 @@ public class LarsClass {
 		// TODO Auto-generated method stub
 		String s1 = "Lars";
 		int i = 23;
+		int i2 = 24;
 
 	}
 
