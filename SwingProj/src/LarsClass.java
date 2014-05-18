@@ -6,6 +6,7 @@ public class LarsClass {
 		String s1 = "Lars";
 		int i = 23;
 		int i2 = 24;
+		int i3 = 25;
 
 	}
 
