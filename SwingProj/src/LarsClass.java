@@ -8,6 +8,7 @@ public class LarsClass {
 		int i2 = 24;
 		int i3 = 25;
 		int i4 = 26; //new branch
+		int i6 = 27; //new branch
 
 	}
 
