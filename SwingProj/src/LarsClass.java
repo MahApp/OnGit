@@ -7,7 +7,7 @@ public class LarsClass {
 		int i = 23;
 		int i2 = 24;
 		int i3 = 25;
-
+		int i5 = 27;
 	}
 
 }
