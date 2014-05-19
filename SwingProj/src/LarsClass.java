@@ -2,7 +2,7 @@
 public class LarsClass {
 
 	public static void main(String[] args) {
-		int i = 18;
+		int i = 10;
 	}
 
 }
