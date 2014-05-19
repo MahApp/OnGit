@@ -2,7 +2,9 @@
 public class LarsClass {
 
 	public static void main(String[] args) {
-			//To write
+		// this is the rel number btw Fatta!	
+		int i = 10;
+
 	}
 
 }
