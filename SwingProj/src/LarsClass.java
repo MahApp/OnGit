@@ -1,10 +1,9 @@
 
 public class LarsClass {
 
-
 	public static void main(String[] args) {
-
-		int i = 1; //heh heh
+		// this is the rel number btw Fatta!	
+		int i = 10;
 
 	}
 
