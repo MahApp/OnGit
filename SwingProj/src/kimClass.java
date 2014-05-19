@@ -2,7 +2,7 @@
 public class kimClass {
 	
 	public static void main(String[]args) {
-		//write
+		int i = 9;
 	}
 	
 	public void testClass() {
