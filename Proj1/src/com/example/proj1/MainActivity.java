@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        //Uhu
+        //Uhu again
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
