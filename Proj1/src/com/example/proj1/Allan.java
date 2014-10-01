@@ -12,4 +12,10 @@ public class Allan {
 	public void thisIsIT(Menu menu){
 		
 	}
+	public void thisIsIT2(Menu menu){
+		
+	}
+	public void thisIsIT3(Menu menu){
+	
+}
 }
