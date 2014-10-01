@@ -10,7 +10,7 @@ public class Allan {
 	}
 	
 	public void thisIsIT(Menu menu){
-		
+		int a =3;
 	}
 	public void thisIsIT2(Menu menu){
 		
