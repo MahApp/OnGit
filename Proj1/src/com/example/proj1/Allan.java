@@ -16,6 +16,7 @@ public class Allan implements Observer{
 		try {
 			int a = 3;
 			int b = 6;
+			int d=17;
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
