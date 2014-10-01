@@ -30,6 +30,7 @@ public class Allan implements Observer{
 		}
 	}
 	public void thisIsIT3(Menu menu){
+		int k=16;
 	
 }
 
