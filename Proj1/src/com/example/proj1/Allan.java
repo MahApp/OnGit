@@ -13,7 +13,7 @@ public class Allan {
 		
 	}
 	public void thisIsIT2(Menu menu){
-		
+		int b=16;
 	}
 	public void thisIsIT3(Menu menu){
 	
