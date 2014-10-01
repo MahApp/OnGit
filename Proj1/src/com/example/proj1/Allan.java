@@ -13,8 +13,13 @@ public class Allan {
 		
 	}
 	public void thisIsIT2(Menu menu){
-		int b=16;
-		String S = "Heppa";
+		try {
+			int b=16;
+			String S = "Heppa";
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 	public void thisIsIT3(Menu menu){
 	
