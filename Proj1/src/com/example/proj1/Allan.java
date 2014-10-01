@@ -14,6 +14,7 @@ public class Allan {
 	}
 	public void thisIsIT2(Menu menu){
 		int b=16;
+		String S = "Heppa";
 	}
 	public void thisIsIT3(Menu menu){
 	
