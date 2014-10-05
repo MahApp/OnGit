@@ -15,7 +15,7 @@ public class Allan implements Observer{
 	public void thisIsIT(Menu menu){
 		try {
 			int a = 3888;
-			int b = 5777;
+			int b = 577755;
 			int d=188;
 		} catch (Exception e) {
 			// TODO: handle exception
