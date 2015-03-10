@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-    	//more strange changes
+    	//more strange changes and jet how can I
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
